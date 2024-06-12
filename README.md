@@ -36,5 +36,5 @@ All mathematical computations are done using "numpy". Also, we have used KDTree 
 ## Simulation Preview
 Here is a preview of the simulation
 
-![Simulation Preview](./assets/shortened_example.gif)
+![Simulation Preview](Preview.gif)
  
