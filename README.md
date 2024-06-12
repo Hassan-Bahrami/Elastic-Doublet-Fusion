@@ -1,6 +1,6 @@
-# Elastic Doublet Fusion
+# Elastic Doublet Fusion Using SPH
 
-This is a Python project for simulating an elastic doublet fusion using the SPH method. The code is part of the implementation of the "Physically-based simulation of elastic-plastic fusion of 3D bioprinted spheroids" article by Bahrami et al. (2023) published in the "Biofabrication" journal. The full article can be found at the link below:
+This is a Python project for simulating an elastic doublet fusion using the Smoothed Particle Hydrodynamics (SPH) method. The code is part of the implementation of the "Physically-based simulation of elastic-plastic fusion of 3D bioprinted spheroids" article by Bahrami et al. (2023) published in the "Biofabrication" journal. The full article can be found at the link below:
 
 [https://iopscience.iop.org/article/10.1088/1758-5090/acf2cb/meta](https://iopscience.iop.org/article/10.1088/1758-5090/acf2cb/meta)
 
